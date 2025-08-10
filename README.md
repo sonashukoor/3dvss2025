@@ -6,9 +6,11 @@ Hands-on session on CNN and Camera Calibration
 ### Day 2 - Basics of 3D Vision
 Hands-on session on Open3D and MeshLab
 
-**Softwares to be used:**
-1. [Meshlab](https://www.meshlab.net/#download)
-2. [FreeCAD](https://www.freecad.org/downloads.php)
+**Softwares to be used :**
+- [Meshlab](https://www.meshlab.net/#download)
+- [FreeCAD](https://www.freecad.org/downloads.php)
+
+`Download S2Data.zip`
 
 ### Day 3 - Deep Learning on 3D Representation
 Hands-on session on PointNet, MeshCNN and PiFU
@@ -17,7 +19,7 @@ Hands-on session on PointNet, MeshCNN and PiFU
 Hands-on session on Parametric Model Regression and Clothed Reconstruction.  
 Additional session on GPU Parallel Programming (Taichi)
 
-**Download SMPL / SMPL-X / FLAME Models**
+**Download SMPL / SMPL-X / FLAME Models :**
 
 **A. [SMPL Model (Gender-Neutral)](https://smpl.is.tue.mpg.de/)**
 1. Download `SMPL_python_v.1.1.0.zip`
