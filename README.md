@@ -1,7 +1,7 @@
 # 3D VISION SUMMER SCHOOL 2025
 
 ### Day 1 - Background of 2D Vision
-Hands-on session on CNN and Camera Calibration
+Hands-on session on [CNN](https://colab.research.google.com/drive/1bICEqYl3XhO3YGyH-yerqD-I-Mu1uDcG?usp=drive_link), [Camera Calibration](https://colab.research.google.com/drive/1TtRaQJNNzXIwyKk-PUhWXtIfM71_OcW0?usp=drive_link) and [Digital Image Processing](https://colab.research.google.com/drive/1W6F363_RAkdTnQfwl1JfuC93SEQt9ITg?usp=drive_link).
 
 ### Day 2 - Basics of 3D Vision
 Hands-on session on Open3D and MeshLab
@@ -10,7 +10,7 @@ Hands-on session on Open3D and MeshLab
 - [Meshlab](https://www.meshlab.net/#download)
 - [FreeCAD](https://www.freecad.org/downloads.php)
 
-`Download S2Data.zip`
+`Download [S2Data.zip](https://github.com/sonashukoor/3dvss2025/blob/main/Day2_Open3D_MeshLab/S2Data.zip)`
 
 ### Day 3 - Deep Learning on 3D Representation
 Hands-on session on PointNet, MeshCNN and PiFU
