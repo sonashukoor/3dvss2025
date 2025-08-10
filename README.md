@@ -14,7 +14,7 @@ Hands-on session :
 - [Meshlab](https://www.meshlab.net/#download)
 - [FreeCAD](https://www.freecad.org/downloads.php)
 
-`Download [S2Data.zip](https://github.com/sonashukoor/3dvss2025/blob/main/Day2_Open3D_MeshLab/S2Data.zip)`
+`Download` [S2Data.zip](https://github.com/sonashukoor/3dvss2025/blob/main/Day2_Open3D_MeshLab/S2Data.zip)
 
 ### Day 3 - Deep Learning on 3D Representation
 Hands-on session :
@@ -62,7 +62,7 @@ Hands-on session on Skinning, Rigging and Cloth Simulation :
 **Softwares to be used:**
 - [Blender](https://www.blender.org/download/)
 
-`Download [Resources](https://drive.google.com/drive/u/1/folders/19cXOOzTojaPMUFqmxtFXP5n3X3UmGyrI)`
+`Download` [Resources](https://drive.google.com/drive/u/1/folders/19cXOOzTojaPMUFqmxtFXP5n3X3UmGyrI)
 
 ### Day 7 - 3D Generative AI
 Hands-on session on [Diffusion Models](https://docs.google.com/presentation/d/1JfArz16VQz6JD7iC1J-mGgCrGuw0f-LzLlBnm-N0Mhw/edit?usp=drive_link) :
